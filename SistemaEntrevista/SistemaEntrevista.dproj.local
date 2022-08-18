@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/10 20:47:00.000.483,=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/10 21:34:32.000.348,=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/12 16:20:13.000.780,=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:56:58.000.136,=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:59:53.000.161,=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:01:44.000.574,C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Controller\Connections\Sistema.Controller.Connections.Interfaces.pas=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:04:02.000.157,=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:06:56.000.384,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Conexoes.Interfaces.pas=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:07:40.000.104,D:\delphi\SistemaEntrevista\Principal.pas=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:07:40.000.104,D:\delphi\SistemaEntrevista\Principal.fmx=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/08/17 20:07:57.000.691,D:\delphi\SistemaEntrevista\SistemaEntrevista.dproj=C:\Users\vande\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/17 20:08:57.000.234,=D:\delphi\SistemaEntrevista\Controller\Connections\Sistema.Controller.Connections.Interfaces.pas</Transaction>
+    <Transaction>2022/08/17 20:22:22.000.748,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:23:11.000.675,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.Firedac.pas=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:23:41.000.743,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.Interfaces.pas=D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Conexoes.Interfaces.pas</Transaction>
+    <Transaction>2022/08/17 20:29:49.000.955,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:30:29.000.391,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.Factory.pas=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:48:15.000.765,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 20:49:43.000.011,=D:\delphi\SistemaEntrevista\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:52:19.000.521,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connextoins.TableFiredac.pas=D:\delphi\SistemaEntrevista\Unit2.pas</Transaction>
+    <Transaction>2022/08/17 20:53:04.000.887,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.TableFiredac.pas=D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connextoins.TableFiredac.pas</Transaction>
+    <Transaction>2022/08/17 20:55:34.000.029,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.FactoryDataset.pas=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 21:03:24.000.801,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 21:11:25.000.438,D:\delphi\SistemaEntrevista\Controller\Connections\Sistema.Controller.Connections.Factory.pas=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:37:00.000.627,D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.FactoryDataset.pas=D:\delphi\SistemaEntrevista\Model\Connections\Sistema.Model.Connections.Factory.Dataset.pas</Transaction>
+    <Transaction>2022/08/18 09:38:53.000.263,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:41:21.000.673,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Connections\Sistema.Controller.Connections.Factory.Dataset.pas</Transaction>
+    <Transaction>2022/08/18 09:42:09.000.310,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:46:50.000.138,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Model\Entities\Sistema.Model.Entities.Interfaces.pas</Transaction>
+    <Transaction>2022/08/18 09:47:40.000.946,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:49:02.000.213,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Model\Entities\Sistema.Model.Entities.Clients.pas</Transaction>
+    <Transaction>2022/08/18 09:49:26.000.982,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:50:43.000.149,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Model\Entities\Sistema.Model.Entities.Products.pas</Transaction>
+    <Transaction>2022/08/18 09:51:11.000.802,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:54:23.000.060,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Model\Entities\Sistema.Model.Entities.Factory.pas</Transaction>
+    <Transaction>2022/08/18 09:55:10.000.832,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 09:56:06.000.957,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Model\Entities\Sistema.Model.Entities.SalesOrders.pas</Transaction>
+    <Transaction>2022/08/18 10:02:25.000.558,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:03:50.000.328,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Entities\Sistema.Controller.Entities.Interfaces.pas</Transaction>
+    <Transaction>2022/08/18 10:04:30.000.506,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:05:00.000.995,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Entities\Sistema.Controller.Entities.Clients.pas</Transaction>
+    <Transaction>2022/08/18 10:18:39.000.689,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:21:22.000.691,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Entities\Sistema.Controller.Entities.Products.pas</Transaction>
+    <Transaction>2022/08/18 10:21:44.000.955,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:22:44.000.976,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Entities\Sistema.Controller.Entities.SalesOrders.pas</Transaction>
+    <Transaction>2022/08/18 10:24:36.000.212,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:28:42.000.038,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Entities\Sistema.Controller.Entities.Factory.pas</Transaction>
+    <Transaction>2022/08/18 10:48:43.000.926,=D:\delphi\SistemaEntrevista\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:49:46.000.068,D:\delphi\SistemaEntrevista\Unit1.pas=D:\delphi\SistemaEntrevista\Controller\Forms\Sistema.Controller.Forms.Default.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
